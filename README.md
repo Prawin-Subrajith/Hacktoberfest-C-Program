@@ -1,5 +1,8 @@
 # Hacktoberfest-C-Program
-# Step #1:Fork the repository
-#Step #3:Make a new branch
-#Step #4:Make your changes
-#Step #5:Create pull request 
+## Fork This Repository
+## Add a C or C++ file
+## Create a pull request
+## Wait for it to get accepted/approved
+
+### Make sure the file you upload is written in either C or C++ only and your code has some functionality
+### Do not spam with unnecessary files and PRs
